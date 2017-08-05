@@ -1,5 +1,5 @@
 # BTC-time-series
-Data for price regression
+BTC-USD data set for price regression
 
 -BTC time series data resampled to 10 min granularity.
 -Format: Time Opening High Low Close Volume
